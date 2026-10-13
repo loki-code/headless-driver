@@ -1,0 +1,52 @@
+Headless Driver Plugin — Binary License
+Copyright (c) Loki ("the Author"). All rights reserved.
+
+This distribution contains a compiled, binary-only release of the Headless
+Driver plugin for SA-MP / open.mp (the "Plugin"): the compiled plugin
+binary (headless_driver.so and/or headless_driver.dll) and the Pawn
+include file (headless_driver.inc). No source code is provided, and none
+is granted under this license.
+
+1. GRANT
+   The Author grants you a non-exclusive, non-transferable license to use
+   the Plugin binaries on your own SA-MP / open.mp server(s), free of
+   charge, subject to the conditions below.
+
+2. CREDIT REQUIREMENT
+   If you use the Plugin on a server, publicly or privately, you must
+   credit the Author, Loki, as the creator of the Headless Driver plugin.
+   This requirement is enforced in two ways:
+     a) The Plugin itself sends a short credit message to every player
+        when they connect to your server. You may not remove, hide,
+        suppress, intercept, or patch out this message, and you may not
+        modify the compiled binary to alter or disable it.
+     b) Any public mention of your server's AI traffic / driving system
+        (forum posts, Discord, store pages, trailers, etc.) must credit
+        "Headless Driver by Loki" where such features are shown or
+        described.
+
+3. RESTRICTIONS
+   You may NOT:
+     - Decompile, disassemble, or reverse-engineer the binaries beyond
+       what your jurisdiction makes non-waivable.
+     - Redistribute, resell, sublicense, or rehost the binaries or this
+       package yourself, in original or modified form. Anyone who wants
+       the Plugin must get it from the Author directly.
+     - Remove or alter this license, the credit message described in
+       Section 2, or any copyright notice.
+     - Claim authorship of the Plugin or represent it as your own work.
+
+4. NO SOURCE / NO WARRANTY
+   The Plugin is provided as compiled binaries only. It is provided "AS
+   IS", without warranty of any kind, express or implied, including but
+   not limited to warranties of merchantability, fitness for a
+   particular purpose, and non-infringement. The Author is not liable
+   for any damages or losses arising from use of the Plugin.
+
+5. TERMINATION
+   This license terminates automatically if you violate any of the above
+   conditions. Upon termination you must stop using the Plugin and
+   delete all copies in your possession.
+
+For permissions beyond this license (e.g. source access, commercial
+redistribution), contact the Author directly.
